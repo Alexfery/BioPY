@@ -155,5 +155,5 @@ README.md
 
 ## 👨‍💻 Author
 
-Fer Alexabdru
+Fer Alexandru - 2nd Year Student at UTCN – Automation & Computers
 ---
